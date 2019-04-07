@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-  background-color: #A822321;
+  background-color: #A82104;
   text-align: left;
   font-size: 25px;
   color: #FFFFFF;
@@ -35,7 +35,7 @@ body {
   width: 70%;
 
   border-style: solid;
-  border-width: 7px;
+  border-width: 8px;
   border-color: black;
   padding: 10px;
   min-height: 80%;
