@@ -12,7 +12,7 @@ JINJA_ENVIRONMENT = jinja2.Environment(
     autoescape=True)
 
 class AddWord(webapp2.RequestHandler):
-    # GET-request
+    # GET
     def get(self):
         self.response.headers['Content-Type'] = 'text/html'
         template_values = {
